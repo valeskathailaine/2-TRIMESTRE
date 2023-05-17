@@ -7,3 +7,8 @@ body {
 h1{
     background-color: white;
 }
+@import url ("style/heard.css");
+:root {
+    --cor-de-fundo:#EBECEE
+    --branco:# FFFFFF;
+}
